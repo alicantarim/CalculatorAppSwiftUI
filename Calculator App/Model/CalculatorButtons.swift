@@ -2,7 +2,7 @@
 //  CalculatorButtons.swift
 //  Calculator App
 //
-//  Created by Alican TARIM on 24.03.2024.
+//  Created by Alican TARIM on 24.03.2024..
 //
 
 import SwiftUI
